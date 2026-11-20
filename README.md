@@ -6,3 +6,4 @@
 ███████╗██║  ██║███████║███████║███████╗███████╗██║██║  ██║██║ ╚████║
 ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚══════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
+<a href="https://gitroll.io/profile/uNl8vFfMycghIv2zyo5OtwrtUFw53" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uNl8vFfMycghIv2zyo5OtwrtUFw53?theme=dark" alt="GitRoll Profile Badge"/></a>
